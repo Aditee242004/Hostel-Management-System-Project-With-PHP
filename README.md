@@ -1,1 +1,2 @@
 # Hostel-Management-System-Project-With-PHP
+I have created the project of Hostel management System with Database Connectivity using PHP. I have used XAMP Server to run this project.A Hostel Management System (HMS) is a web-based application designed to streamline hostel administration, including student registration, room allocation, fee management, and complaint handling. This system enhances efficiency by automating various tasks, reducing manual effort, and improving record-keeping.
